@@ -647,5 +647,115 @@
         "album": "Minutes to Midnight (Deluxe Edition) [Explicit]",
         "numero_de_pista": "14/14",
         "Año": "2007"
+    },
+    {
+        "archivo_musica": "Albums/198274401_1.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Nobody Can Save Me",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "1/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_2.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Good Goodbye (feat. Pusha T and Stormzy)",
+        "artista": "Linkin Park, Pusha T & Stormzy",
+        "album": "One More Light",
+        "numero_de_pista": "2/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_3.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Talking to Myself",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "3/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_4.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Battle Symphony",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "4/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_5.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Invisible",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "5/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_6.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Pop",
+        "titulo": "Heavy (feat. Kiiara) [Explicit]",
+        "artista": "Linkin Park & Kiiara",
+        "album": "One More Light",
+        "numero_de_pista": "6/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_7.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Sorry for Now",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "7/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_8.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Halfway Right [Explicit]",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "8/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_9.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "One More Light",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "9/10",
+        "Año": "2017"
+    },
+    {
+        "archivo_musica": "Albums/198274401_10.flac",
+        "descripcion": "198274401",
+        "imagen": "Albums/198274401.jpg",
+        "genero": "Alternative Rock",
+        "titulo": "Sharp Edges",
+        "artista": "Linkin Park",
+        "album": "One More Light",
+        "numero_de_pista": "10/10",
+        "Año": "2017"
     }
 ]
